@@ -2,10 +2,10 @@
 
 html {
   font-size: 10px;
+  scroll-behavior: smooth;
 }
 
 body {
   font: 16px Arial, sans-serif;
   color: #333;
 }
-
