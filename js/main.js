@@ -6,5 +6,5 @@
     age: 34,
     eyes: black
   }];
-  console.log(people);
+  alert(people);
 })();
