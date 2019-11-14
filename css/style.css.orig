@@ -6,6 +6,10 @@ html {
 }
 
 body {
+<<<<<<< HEAD
+  font: 16px Arial, sans-serif;
+=======
   font: 18px Arial, sans-serif;
+>>>>>>> voltando-no-tempo
   color: #fc0;
 }
