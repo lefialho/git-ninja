@@ -6,6 +6,10 @@ html {
 }
 
 body {
-  font: 18px Arial, sans-serif;
+<<<<<<< HEAD
+  font: 10px Arial, sans-serif;
+=======
+  font: 16px Arial, sans-serif;
+>>>>>>> dev
   color: #fc0;
 }
