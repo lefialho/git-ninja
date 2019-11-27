@@ -18,4 +18,3 @@
 //   eyes: black
 // }];
 // console.log(people);
-})(window);
