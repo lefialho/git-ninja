@@ -2,15 +2,19 @@
   'use strict';
 
   function app() {
-    return {};
+    return {
+      hi: function (name) {
+        return "Hi" + name
+      }
+    };
   }
 
   win.app = app();
-
-  // const people = [{
-  //   name: "Leandro Fialho",
-  //   age: 34,
-  //   eyes: black
-  // }];
-  // console.log(people);
 })(window);
+
+// const people = [{
+//   name: "Leandro Fialho",
+//   age: 34,
+//   eyes: black
+// }];
+// console.log(people);
