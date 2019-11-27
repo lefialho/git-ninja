@@ -11,10 +11,3 @@
 
   win.app = app();
 })(window);
-
-// const people = [{
-//   name: "Leandro Fialho",
-//   age: 34,
-//   eyes: black
-// }];
-// console.log(people);
